@@ -1,0 +1,7 @@
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache

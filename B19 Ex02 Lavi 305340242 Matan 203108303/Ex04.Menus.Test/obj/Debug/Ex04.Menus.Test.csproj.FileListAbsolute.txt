@@ -1,0 +1,14 @@
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\MenuBuilder\worker\B19 Ex02 Lavi 305340242 Matan 203108303\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
