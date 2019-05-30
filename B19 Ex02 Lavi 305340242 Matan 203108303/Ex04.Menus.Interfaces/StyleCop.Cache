@@ -3,6 +3,9 @@
   <project key="-1556129258">
     <configuration>DEBUG;TRACE</configuration>
   </project>
+  <project key="-1104564655">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="BackItem.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019/04/11 12:21:36.402</styleCop>

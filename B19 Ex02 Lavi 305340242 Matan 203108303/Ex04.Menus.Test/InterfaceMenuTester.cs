@@ -26,17 +26,21 @@ namespace Ex04.Menus.Test
             showTimeExe.AttachListener(new ShowTime());
             showDateExe.AttachListener(new ShowDate());
 
+            // Add dateTimeInterfaceMenu to the menu
             dateTimeInterfaceMenu.AddItemToMenu(showTimeExe);
             dateTimeInterfaceMenu.AddItemToMenu(showDateExe);
             o_InterfaceMainMenu.AddItemToMenu(dateTimeInterfaceMenu);
 
+            // Initialize the versionAndCountDigits menu
             Interfaces.MainMenu versionAndCountDigits = new Interfaces.MainMenu("Version and Count Digits", eMainMenuType.SecondaryMenu);
             Interfaces.ExecutableItem countDigitsExe = new ExecutableItem("Count Digits");
             Interfaces.ExecutableItem showVersionExe = new ExecutableItem("Show Version");
 
+            // Add countDigitsExe and showVersionExe as a listeners - it mean that when the user click on them the ShowTime and ShowDate method will start.
             countDigitsExe.AttachListener(new CountDigits());
             showVersionExe.AttachListener(new ShowVersion());
 
+            // Add versionAndCountDigits to the menu
             versionAndCountDigits.AddItemToMenu(countDigitsExe);
             versionAndCountDigits.AddItemToMenu(showVersionExe);
             o_InterfaceMainMenu.AddItemToMenu(versionAndCountDigits);
